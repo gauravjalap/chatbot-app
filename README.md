@@ -94,7 +94,7 @@ The Groq AI Chatbot is an interactive web application that leverages the power o
 ## Project Structure
 
 ```
-groq-ai-chatbot/
+chatbot-app/
 ├── src/
 │   ├── components/
 │   │   └── Chatbot.jsx
